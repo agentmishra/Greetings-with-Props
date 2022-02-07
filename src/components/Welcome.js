@@ -2,7 +2,7 @@
 import React from "react";
 
 
-const Welcome = () => {
+const Welcome = (props) => {
 
   return (
     <div>
